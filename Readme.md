@@ -19,7 +19,7 @@ The objectives for this project are as follows:
 - media-queries.css contains all the media queries for small,medium,large and extra-large devices
 
 
-github-link:-
+github-link:-https://github.com/siddharthcode98/simplotel-assignement.git
 
 live-link:-
 
