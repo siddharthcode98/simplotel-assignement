@@ -21,5 +21,5 @@ The objectives for this project are as follows:
 
 github-link:-https://github.com/siddharthcode98/simplotel-assignement.git
 
-live-link:-
+live-link:-https://simplotel-assignment-siddharth.netlify.app/
 
